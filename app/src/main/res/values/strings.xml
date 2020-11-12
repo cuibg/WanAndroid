@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WanAndroid</string>
+
+    <string name="title_home">主页</string>
+    <string name="we_chat_name">公众号</string>
+    <string name="project">项目</string>
+    <string name="navigation">导航</string>
+    <string name="konwledge_system">知识体系</string>
+
+</resources>
