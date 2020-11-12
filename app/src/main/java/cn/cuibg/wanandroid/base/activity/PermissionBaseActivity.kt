@@ -1,4 +1,4 @@
-package cn.cuibg.wanandroid.base
+package cn.cuibg.wanandroid.base.activity
 
 import com.sbingo.wanandroid_mvvm.base.BaseActivity
 

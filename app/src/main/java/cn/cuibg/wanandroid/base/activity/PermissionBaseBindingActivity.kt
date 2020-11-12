@@ -1,4 +1,4 @@
-package cn.cuibg.wanandroid.base
+package cn.cuibg.wanandroid.base.activity
 
 import androidx.viewbinding.ViewBinding
 import com.sbingo.wanandroid_mvvm.base.BaseBindingActivity
